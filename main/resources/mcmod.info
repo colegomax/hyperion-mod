@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hyperion",
+  "name": "Hyperion Guns & Robotics",
+  "description": "Hyperion shall be victorious",
+  "version": "0.0.1-B",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Colenobi for assets and coding", "Voidbehemoth for ideas"],
+  "credits": "MrCrayfish for his gun API",
+  "logoFile": "assets/hyperion/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

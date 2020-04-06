@@ -1,0 +1,14 @@
+#==============ITEMS==============
+item.hyperion.assaulter.name=Assaulter
+item.hyperion.foam_dart.name=Foam Dart
+
+#==============BLOCKS==============
+
+
+#==============ENTITIES==============
+entity.mrsecure.name=Mr. Secure MK I
+
+#==============CREATIVE TABS==============
+itemGroup.hyperion.tabguns=Hyperion Guns
+itemGroup.hyperion.tabitems=Hyperion Materials
+itemGroup.hyperion.tabrobots=Hyperion Robots

@@ -1,0 +1,8 @@
+{
+    "item.assaulter.fire": {
+        "sounds": [{ "name": "hyperion:item/assaulter/fire" }]
+    },
+    "item.assaulter.reload": {
+        "sounds": [{ "name": "hyperion:item/assaulter/reload" }]
+    }
+}
